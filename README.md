@@ -7,7 +7,7 @@ Hi, I'm Diego Umpierre! I'm a passionate **Java Engineer** with experience build
 - 🧪 Strong advocate for TDD, CI/CD, and infrastructure as code.
 - ☕ Fun fact: I believe `Optional` is often better than `null`.
 
-📫 How to reach me: diego@umpierre.com.br | [[[LinkedIn](https://www.linkedin.com/in/diego-umpierre/)]](https://www.linkedin.com/in/diego-umpierre/) 
+📫 How to reach me: diego@umpierre.com.br | [LinkedIn](https://www.linkedin.com/in/diego-umpierre/)
 
 ---
 
